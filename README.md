@@ -1,1 +1,1 @@
-# Generador_Cadenas_Aleatorias_PULL_2
+# Generador_Cadenas_Aleatorias
